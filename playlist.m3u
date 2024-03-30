@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="General",1+1 (1080p)
+https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
 #EXTINF:-1 tvg_id="KMBCDT1.us" tvg_logo="https://i.imgur.com/DCBHkiP.jpg" group_title="MBC",ABC 9 Kansas City MO
 https://lnc-kmbc.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg_id="MBC1USA.us" tvg_logo="https://i.imgur.com/CiA3plN.png" group_title="MBC",MBC 1
